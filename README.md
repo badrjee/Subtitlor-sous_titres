@@ -34,4 +34,5 @@ Avant de lancer l'application assurez que :
 
   - votre serveur utilise le bon port http (dans mon cas "8080")
 
-  - ouvrir "web.xml" et modifier le chemin de votre fichier de données "sous_titre.srt" dans la balise "location",dans ce cas le fichier "sous_titre.srt" ce trouve dans le dossir: C:/Users/Badrjee/Desktop/FileData
+  - ouvrir "web.xml" et modifier le chemin de votre fichier de données "sous_titre.srt" dans la balise "location",dans ce cas le fichier "sous_titre.srt" ce trouve dans le dossier: 
+  C:/Users/Badrjee/Desktop/FileData
